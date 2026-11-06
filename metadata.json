@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Extensão — Inclusão Visual do Idoso (Certificado Nº 07)",
+  "description": "Plataforma interativa e autenticador oficial da Atividade Comunitária de Inclusão Visual do Idoso: Distribuição de Folhetos em Fonte Ampliada e Áudio-Guias sobre Catarata e Degeneração Macular (Certificado Nº 07 - EMS-EXT-2025-0714).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
